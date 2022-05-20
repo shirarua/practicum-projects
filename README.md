@@ -1,5 +1,7 @@
-# practicum-projects
+# Practicum project portfolio
 
-All of the projects in this repository were completed as part of the Yandex Practicum Data Analyst track.
+This repository contains projects completed as a part of the Practicum Data Analyst certification.
 
-Most projects only contain a Jupyter notebook, though a few may contain additional components such as PDF copies of PowerPoint presentations or links to Tableau dashboards. In some cases, graphs in the notebook may not appear without being run depending on the graphing library used. I have made an effort to add in png copies of these plots.
+Each folder represents a separate project and contains a detailed README file describing the project, the full project notebook, the dataset(s), and any other elements that may have been included in the project (such as dashboards or presentations).
+
+This README will eventually be updated with a descriptive table of contents.
