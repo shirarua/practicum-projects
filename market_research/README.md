@@ -1,7 +1,28 @@
 # Market Research on Restaurants in Los Angeles
 
-In this project, a fictitious company in looking to open a robot-run cafe in Los Angeles, California. We are conducting preliminary market research using public data provided by the City of Los Angeles on registered restaurants.
+Click **[here](https://nbviewer.org/github/shirarua/practicum-projects/blob/main/market_research/cafe_market_research.ipynb)** to view the notebook using **[nbviewer](https://nbviewer.org)**.
 
-**The notebook** (*cafe_market_research.ipynb*) contains our detailed analysis.
+**In this folder**
 
-**The presentation** (*cafe_market_research-presentation.pdf*) contains the final powerpoint presentation of our summarized findings.
+|File name |Description |
+|---|---|
+| *rest_data_us.csv*| Data on food establishments in Los Angeles |
+| *cafe_market_research.ipynb* | Full project notebook with a detailed analysis of the research |
+| *cafe_market_research-presentation.pdf* | PDF version of the final pptx presentation of summarized findings |
+
+
+## Description
+a fictitious company in looking to open a robot-run cafe in Los Angeles, California. We are conducting preliminary market research using public data provided by the City of Los Angeles on registered restaurants.
+
+### Data
+
+### Libraries
+
+## Methodology
+
+
+## Summary 
+
+
+
+
