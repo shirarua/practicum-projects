@@ -1,6 +1,6 @@
 # Membership Churn Predictions
 
-This project notebook can be viewed directly in GitHub.
+Click **[here](https://github.com/shirarua/practicum-projects/blob/main/churn_predictions/gym_churn_predictions.ipynb)** to view this notebook directly in GitHub. Or locate the file `gym_churn_predictions.ipynb` directly in the churn_predictions folder.
 
 If running the notebook locally, please refer to the library versions listed in the description below.
 
