@@ -61,7 +61,7 @@ Identify global & regional trends in the video game market based on Ice's sales 
 - Compared year-over-year game sales growth by platform from 2013-2016.
 - Analyzed distribution of global game sales per platform for the entire lifespan of each platform.
 
-*Relationship sales & reviews *
+*Relationship sales & reviews*
 - Visualized the relationships of both critic score & user score against global sales, and calculated the correlation.
 - Further broke down this analysis by platform.
 
