@@ -24,7 +24,7 @@ A company is looking to open a small robot-run cafe in Los Angeles, California. 
 - **address:** address
 - **number:** number of seats
 
-### Libraries required to run the notebook
+### Libraries to run the notebook locally
 ***Python version 3.8.8***
 |Library| Version|
 |---|---|
