@@ -2,7 +2,8 @@
 
 This is the first project in the course meant to practice data pre-processing skills in Python.
 
-Click **[here](https://nbviewer.org/github/shirarua/practicum-projects/blob/main/preprocessing-project/data_preprocessing_final.ipynb)** to view the notebook using **[nbviewer](https://nbviewer.org)**.
+👉  View the `notebook` **[here](https://nbviewer.org/github/shirarua/practicum-projects/blob/main/preprocessing-project/data_preprocessing_final.ipynb)** using **nbviewer**.
+
 
 ## Project Overview
 ### Objective
