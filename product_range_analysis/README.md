@@ -1,7 +1,7 @@
 # Product Range Analysis
 ***README INCOMPLETE***
 
-👉 View the `notebook` **[here](___)** using **nbviewer**.
+👉 View the `notebook` **[here](https://nbviewer.org/github/shirarua/practicum-projects/blob/main/product_range_analysis/product_range_final.ipynb)** using **nbviewer**.
 
 👉 View the `dashboard` **[here](https://public.tableau.com/views/FinalProject-ProductRangeAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)** on Tableau Public.
 
@@ -11,8 +11,8 @@ If running the notebook locally, please refer to the library versions listed in 
 
 |File name |Description |
 |---|---|
-| *ecommerce_dataset_us.csv*| Raw dataset containing order information. |
-| *ecomm_cat.csv* | Clean sales data used in the Tableau dahsboard. |
+| *ecommerce_dataset_us.zip*| Raw dataset containing order information (compressed). |
+| *ecomm_cat.zip* | Clean sales data used in the Tableau dahsboard (compressed). |
 | *product_range_final.ipynb* | Full project notebook with a detailed analysis of the research. |
 
 
