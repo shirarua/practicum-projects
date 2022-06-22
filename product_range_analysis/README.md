@@ -2,7 +2,7 @@
 
 👉 View the `notebook` **[here](https://nbviewer.org/github/shirarua/practicum-projects/blob/main/product_range_analysis/product_range_final.ipynb)** using **nbviewer**.
 
-👉 View the `dashboard` **[here](https://public.tableau.com/views/FinalProject-ProductRangeAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)** on Tableau Public.
+👉 View the `dashboard` **[here](https://public.tableau.com/app/profile/shira3525/viz/EcommerceSalesDash/Dashboard12)** on Tableau Public.
 
 If running the notebook locally, please refer to the library versions listed in the description below.
 
@@ -44,9 +44,7 @@ Analyze the product range of an ecommerce store. Use one year of invoice data to
 
 
 ## Dashboard
-👉 View the `dashboard` **[here](https://public.tableau.com/views/FinalProject-ProductRangeAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)** on Tableau Public.
-
-Dashboard 
+👉 View the `dashboard` **[here](https://public.tableau.com/app/profile/shira3525/viz/EcommerceSalesDash/Dashboard12)** on Tableau Public. 
 
 The dashboard connects to the dataset `ecomm_cat.csv`.
 - `name`: item name
@@ -54,6 +52,8 @@ The dashboard connects to the dataset `ecomm_cat.csv`.
 - `invoice`: invoice number
 - `date`: order date
 - `total`: sales total
+
+<div class='tableauPlaceholder' id='viz1655906618952' style='position: relative'><noscript><a href='#'><img alt='Dashboard Sales ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ec&#47;EcommerceSalesDash&#47;DashboardSales&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EcommerceSalesDash&#47;DashboardSales' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ec&#47;EcommerceSalesDash&#47;DashboardSales&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 
 ## Summary
 ### Methodology
